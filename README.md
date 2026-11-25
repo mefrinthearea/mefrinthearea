@@ -3,6 +3,8 @@
 Computer Science student and frontend developer based in
 Tbilisi, Georgia.
 
+**[Personal developer portfolio — source and project showcase](https://github.com/mefrinthearea/developer-portfolio)**
+
 I'm interested in building practical software, designing
 thoughtful user interfaces and understanding the systems
 behind modern applications.
@@ -29,6 +31,7 @@ behind modern applications.
 
 | Project | Description | Technologies |
 |---|---|---|
+| [Developer Portfolio](https://github.com/mefrinthearea/developer-portfolio) | Personal website with project showcases, filters and light/dark themes | HTML, CSS, JavaScript |
 | [DeskFlow](https://github.com/mefrinthearea/deskflow-helpdesk) | Role-based customer support and ticket management platform | React, Express, SQLite |
 | [Momentum Ledger](https://github.com/mefrinthearea/momentum-ledger) | Quantitative momentum-ranking model and financial dashboard | Python, Pandas, JavaScript |
 | [Customer Management Dashboard](https://github.com/mefrinthearea/customer-management-dashboard) | Interactive customer management interface | React, TypeScript, Tailwind CSS |
